@@ -1,8 +1,8 @@
 # Fortnite's Largest Build Archive
 
-Worlds largest Fortnite Build Archive ranging from Chapter 1 through Chapter 7 (current).
+The worlds largest Fortnite Build Archive ranging from Chapter 1 through Chapter 7 (current).
 
-# Season 8
+# Season 1
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 8.00-CL-5203069                  | 28th February 2019          | UE4.22                    |        Download : [1](https://builds.rebootfn.org/8.00.zip) ; [2](https://galaxiafn.co.uk/8.00.zip) |
