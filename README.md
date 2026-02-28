@@ -10,7 +10,7 @@ The worlds largest Fortnite Build Archive ranging from Chapter 1 through Chapter
 # Season 0 & 1
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 1.7.2-CL-3700114                 | 17th October 2017          | UE4.16-3700114                    |        Download : [1](https://builds.rebootfn.org/1.7.2.zip)) ; [2](https://galaxiafn.co.uk/8.00.zip) |
+| 1.7.2-CL-3700114                 | 17th October 2017          | UE4.16-3700114                    |        Download : [1](https://builds.rebootfn.org/1.7.2.zip) |
 | 8.20-CL-5625478                  | 27th March 2019             | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.20.rar)  |         
 | 8.30-CL-5793395                  | 10th April 2019            | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.30.rar) |        
 | 8.40-CL-6005771                  | 17th April 2019            | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.40.zip) |        
