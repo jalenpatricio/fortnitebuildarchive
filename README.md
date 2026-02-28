@@ -11,8 +11,9 @@ The worlds largest Fortnite Build Archive ranging from Chapter 1 through Chapter
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 1.7.2-CL-3700114                 | 17th October 2017          | UE4.16-3700114                    |        Download : [1](https://builds.rebootfn.org/1.7.2.zip) |
-| 8.20-CL-5625478                  | 27th March 2019             | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.20.rar)  |         
-| 8.30-CL-5793395                  | 10th April 2019            | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.30.rar) |        
-| 8.40-CL-6005771                  | 17th April 2019            | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.40.zip) |        
-| 8.50-CL-6058028                  | 25th April 2019            | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.50.zip) ; [2](https://galaxiafn.co.uk/8.50.zip) |
-| 8.51-CL-6165369                  | 2nd May 2019                | UE4.23                    |         Download : [1](https://builds.rebootfn.org/8.51.rar) ; [2](https://galaxiafn.co.uk/8.51.zip)  |
+| 1.8-CL-3724489                  | 25th October 2017             | UE4.16-3724489                    |         Download : [1](https://builds.rebootfn.org/1.8.rar)  |         
+| 1.8.1-CL-3729133                | 2nd November 2017            | UE4.16-3729133                    |         Download : [1](https://builds.rebootfn.org/1.8.1.rar) |        
+| 1.8.2-CL-3741772                 | 7th November 2017            | UE4.16-3741772                    |         Download : [1](https://builds.rebootfn.org/1.8.2.rar) |        
+| 1.9-CL-3757339                  | 13th November 2017            | UE4.16-3757339                    |         Download : [1](https://builds.rebootfn.org/1.9.rar) |
+| 1.9.1-CL-3775276                  | 28th November 2017          | UE4.16-3775276                    |         Download : [1](https://builds.rebootfn.org/1.9.1.rar)  |
+| 1.10-CL-3790078                  | 6th December 2017          | UE4.19-3790078                    |         Download : [1](https://builds.rebootfn.org/1.10.rar)  |
