@@ -365,7 +365,7 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | 34.21-CL-41092960                | April 1st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
 | 34.30-CL-41387772                | April 8th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
 | 34.30-CL-41588354                | April 8th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 34.40-CL-41753727                | April 22nd, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
+| 34.40-CL-41753727                | April 22nd, 2025          | UE5.6                    |        Download : [1](https://pastabillites.to/d/b3n0tblbte2g?v=-Wi3AGAgIOAjO6Hlx3CHOu0Oh3AtBZyqakyKy3Tp3GPkXEOZTxjW1XCGW5Ou2D9KMCq_aDW9FMZRXSVQHCBB1r7oOYzvv5np0wecUJTvlHcK2i4EcKqqWzgSlvRrwQ) |
 
 # Season 35
 | Build                         | Date                |  Engine Version        |            Download links             |    
