@@ -331,6 +331,7 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | 31.20-CL-36348036                | September 16th, 2024          | UE5.5                    |        Download : Link down, join the discord if you have it |
 | 31.30-CL-36600465                | October 1st, 2024          | UE5.5                    |        Download : Link down, join the discord if you have it |
 | 31.40-CL-36874825                | October 15th, 2024          | UE5.5                    |        Download : Link down, join the discord if you have it |
+| 31.40-CL-37076506                | October 15th, 2024          | UE5.5                    |        Download : [1](https://cold-na-phx-7.gofile.io/download/web/4f4120ff-3cf4-40f6-89f8-9226306613da/%2B%2BFortnite%2BRelease-31.40-CL-37076506-Windows.zip) |
 | 31.41-CL-37324991                | October 25th, 2024          | UE5.5                    |        Download : [1](https://store-na-phx-4.gofile.io/download/web/32cce581-05c7-4f1f-aad3-a21ab207b418/%2B%2BFortnite%2BRelease-31.41-CL-37324991-Windows.rar) 
 
 # Season 32
