@@ -416,3 +416,12 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | 39.40-CL-50577083                | February 5th, 2026          | UE5.8                    |        Download : Link will be added soon |
 | 39.50-CL-50854790 (Current)              | February 19th, 2026          | UE5.8                    |        Download : Link will be added soon |
 | 39.51-CL-?              | March 5th, 2026          | UE5.8                    |        Download : Link will be added when it releases |
+
+# Credits
+| Name                         | Credits for                |  
+| ----------------------------- | ---------------------- | 
+| ByZNs                |   Gave me permission to use most build links from their repo        
+| A Real Potato               | Sent me the link for v31.40  
+| plooh.dev               | Some build links come from them
+| repressoh               | Some build links come from them
+| simplyblk               | Some build links come from them
