@@ -153,4 +153,4 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | 13.00-CL-13715544                 | June 16th, 2020             | UE4.25                    |         Download : [1](https://dn710400.ca.archive.org/0/items/fortnite-cl-13715544/Fortnite-cl-13715544.7z)  |         
 | 13.20-CL-13777676                | June 30th, 2020            | UE4.25                    |         Download : [1](https://fn-builds.repressoh.it/13.20-CL-13777676.rar) |        
 | 13.30-CL-13884634                 | July 21st, 2020            | UE4.25                    |         Download : [1](https://public.simplyblk.xyz/13.30.rar) |        
-| 13.40-CL-14113327                  | August 5th, 2020            | UE4.25                    |         Download : [1](https://public.simplyblk.xyz/13.40.zip)  |
+| 13.40-CL-14113327                  | August 5th, 2020            | UE4.25                    |         Download : [1](https://public.simplyblk.xyz/13.40.zip) ; [2](https://forcedfnbuilds.website/13.40.rar)  |
