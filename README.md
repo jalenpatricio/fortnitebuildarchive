@@ -2,7 +2,7 @@
 
 The worlds largest Fortnite Build Archive ranging from Chapter 1 through Chapter 7 (current).
 
-A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versions/tree/main?tab=readme-ov-file) Build Archive with permission to use the builds links. Most of the Chapter 6 and 7 builds are Jalens. (the repo owner)
+Credits are listed at the bottom of all of the builds. If you see any builds that are yours and aren't credited, please contact me @jalenpatricio on Discord or join the server below.
 
 # Join the [Discord](https://discord.gg/VeRF9ZCkNX)
 
