@@ -408,7 +408,7 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 # Season 39
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 39.00-CL-48444883                | November 29th, 2025          | UE5.8                  |        Download : Link will be added soon |
+| 39.00-CL-48444883                | November 29th, 2025          | UE5.8                  |        Download : [1](https://pastabillites.to/d/tj19onqwdq16?v=LRZl15oDYwNa5WYBZHZITEAu8EZarXSwqtfsyVXe0mHAhT_MsGX2fnNSJamyD8aMq1lh3E1WCv4A3tdxnvRTPcIrIgoEXnbttMd-iB2us4Flh6BNuPUhW4Z3JYy0eA) |
 | 39.10-CL-48971054                | December 11th, 2025          | UE5.8                    |        Download : Link will be added soon |
 | 39.11-CL-49242330                | December 18th, 2025          | UE5.8                    |        Download : Link will be added soon |
 | 39.20-CL-49564179                | January 9th, 2026          | UE5.8                    |        Download : Link will be added soon |
