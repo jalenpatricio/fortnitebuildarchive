@@ -383,7 +383,7 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | 36.00-CL-43214806                | June 7th, 2025          | UE5.6.1                  |        Download : Link down, join the discord if you have it |
 | 36.10-CL-43486998                | June 18th, 2025          | UE5.6.1                    |        Download : Link down, join the discord if you have it |
 | 36.20-CL-43847582                | July 15th, 2025          | UE5.6.1                    |        Download : Link down, join the discord if you have it |
-| 36.30-CL-44367537                | May 29th, 2025          | UE5.6.1                    |        Download : Link down, join the discord if you have it |
+| 36.30-CL-44367537                | May 29th, 2025          | UE5.6.1                    |        Download : [3](https://pastabillites.to/d/guw6f4kque8h?v=-bYBT4apDtMj9uSA8vtepVsRWx78vPTzEcowU4Svrl4KavQhjKX6q738Eryw9nyV92TftH9dp1NTksWg7Eqtqg2MAyLGWXQOCKeczTGrbrLbYLtsYrjqxcCDL1NIBw) |
 
 # Season 37
 | Build                         | Date                |  Engine Version        |            Download links             |    
