@@ -350,7 +350,7 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 33.00-CL-38504598                | December 1st, 2024          | UE5.6                    |        Download : Link down, join the discord if you have it |
 | 33.10-CL-38630093                | December 10th, 2024          | UE5.6                    |        Download : Link down, join the discord if you have it |
 | 33.11-CL-38773622                | December 18th, 2024          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 33.20-CL-39082670                | January 14th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
+| 33.20-CL-39082670                | January 14th, 2025          | UE5.6                    |        Download : [1](https://dn711006.ca.archive.org/0/items/fortniteBuild33.20/Fortnite.7z) |
 | 33.30-CL-39435251                | January 31st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
 | 33.30-CL-39768313                | January 31st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
 
@@ -384,7 +384,7 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 36.00-CL-43214806                | June 7th, 2025          | UE5.6.1                  |        Download : Link down, join the discord if you have it |
 | 36.10-CL-43486998                | June 18th, 2025          | UE5.6.1                    |        Download : Link down, join the discord if you have it |
 | 36.20-CL-43847582                | July 15th, 2025          | UE5.6.1                    |        Download : Link down, join the discord if you have it |
-| 36.30-CL-44367537                | May 29th, 2025          | UE5.6.1                    |        Download : [3](https://pastabillites.to/d/guw6f4kque8h?v=-bYBT4apDtMj9uSA8vtepVsRWx78vPTzEcowU4Svrl4KavQhjKX6q738Eryw9nyV92TftH9dp1NTksWg7Eqtqg2MAyLGWXQOCKeczTGrbrLbYLtsYrjqxcCDL1NIBw) |
+| 36.30-CL-44367537                | May 29th, 2025          | UE5.6.1                    |        Download : [1](https://pastabillites.to/d/guw6f4kque8h?v=-bYBT4apDtMj9uSA8vtepVsRWx78vPTzEcowU4Svrl4KavQhjKX6q738Eryw9nyV92TftH9dp1NTksWg7Eqtqg2MAyLGWXQOCKeczTGrbrLbYLtsYrjqxcCDL1NIBw) |
 
 # Season 37
 | Build                         | Date                |  Engine Version        |            Download links             |    
@@ -409,12 +409,15 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 39.00-CL-48444883                | November 29th, 2025          | UE5.8                  |        Download : [1](https://pastabillites.to/d/tj19onqwdq16?v=LRZl15oDYwNa5WYBZHZITEAu8EZarXSwqtfsyVXe0mHAhT_MsGX2fnNSJamyD8aMq1lh3E1WCv4A3tdxnvRTPcIrIgoEXnbttMd-iB2us4Flh6BNuPUhW4Z3JYy0eA) |
+| 39.00-CL-48801071                | November 29th, 2025          | UE5.8                  |        Download : [1](https://ia800105.us.archive.org/0/items/fn-v39-archive/39.00-CL-48801071.zip) |
 | 39.10-CL-48971054                | December 11th, 2025          | UE5.8                    |        Download : [1](https://pastabillites.to/d/47y52su0dm70?v=icP4zIt-pBukOMjDmX_He1htMejIMayrl3zC4Vp6pXVlS96yeciEt4BBmp5pTTiY65WLyl0sAOjxC-RXuzV8YCWPDi9IlINvIQ0BrINAXwv4g_SetuQ7XglPtW3hSQ) |
-| 39.11-CL-49242330                | December 18th, 2025          | UE5.8                    |        Download : Link will be added soon |
-| 39.20-CL-49564179                | January 9th, 2026          | UE5.8                    |        Download : Link will be added soon |
-| 39.30-CL-49874243                | January 22nd, 2026          | UE5.8                    |        Download : Link will be added soon |
-| 39.40-CL-50577083                | February 5th, 2026          | UE5.8                    |        Download : Link will be added soon |
-| 39.50-CL-50854790 (Current)              | February 19th, 2026          | UE5.8                    |        Download : Link will be added soon |
+| 39.11-CL-49242330                | December 18th, 2025          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.11-CL-49242330.zip) |
+| 39.11-CL-49241099                | December 18th, 2025          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.11-CL-49241099.zip) |
+| 39.20-CL-49564179                | January 9th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.20-CL-49564179.zip) |
+| 39.30-CL-49874243                | January 22nd, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-49874243.zip) |
+| 39.30-CL-50141518                | January 22nd, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-50141518.zip) |
+| 39.40-CL-50341043                | February 5th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.40-CL-50341043.zip) |
+| 39.50-CL-50854790 (Current)              | February 19th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.50-CL-50854790.zip) |
 | 39.51-CL-?              | March 5th, 2026          | UE5.8                    |        Download : Link will be added when it releases |
 
 # Credits
