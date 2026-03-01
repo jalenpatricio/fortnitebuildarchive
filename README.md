@@ -421,10 +421,12 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | Name                         | Credits for                |  
 | ----------------------------- | ---------------------- | 
 | ByZNs                |   Gave me permission to use most build links from their repo        
-| A Real Potato               | Sent me the link for v31.40  
-| plooh.dev               | Some build links come from them
+| a real potato               | Sent me the link for v31.40  
+| ploosh.dev               | Some build links come from them
 | repressoh               | Some build links come from them
 | simplyblk               | Some build links come from them
 | donjamie               | Provided the link for a missing v13.00
 | zach               | Used his v22.30 link
 | llamaqwerty               | Took some missing builds from their repo
+| mariki               | Got 29.40 from them
+
