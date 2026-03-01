@@ -425,3 +425,5 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | plooh.dev               | Some build links come from them
 | repressoh               | Some build links come from them
 | simplyblk               | Some build links come from them
+| donjamie               | Provided the link for a missing v13.00
+
