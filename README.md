@@ -427,3 +427,4 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | simplyblk               | Some build links come from them
 | donjamie               | Provided the link for a missing v13.00
 | zach               | Used his v22.30 link
+| llamaqwerty               | Took some missing builds from their repo
