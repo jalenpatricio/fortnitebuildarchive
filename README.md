@@ -245,7 +245,7 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | 22.00-CL-22149829                | September 18th, 2022          | UE5.X                    |        Download : [1](https://public.simplyblk.xyz/22.00.7z) |
 | 22.10-CL-22429549                 | October 4th, 2022             | UE5.X                    |         Download : Link down, join the discord if you have it |
 | 22.20-CL-22600409                | October 18th, 2022            | UE5.X                    |         Download : Link down, join the discord if you have it |
-| 22.30-CL-22803135                 | November 1st, 2022            | UE5.X                    |         Download :  Link down, join the discord if you have it |        
+| 22.30-CL-22803135                 | November 1st, 2022            | UE5.X                    |         Download :  [1](https://gfs214n217.userstorage.mega.co.nz/dl/VIWsKENy122jxwdTvwwVE4BG49of6bhmD4bfMJxL86IFtzRAub8hx-XDPabarGU_xm_toBMmRh1BnghTuFcmgEu2xQjJPHaD1i0v2hw0IvuWeUdXVmDVXSRNPCXzqJjgn0Tzoj-7TvXeUfZH4QpWFho86A5q2eYkASHAxFkpnAXDJpifPekzGxBLVySJZAihiLthZ3YlafyJXgk_fiu0qHOI46BcEvbOmIhc7UET4JhvXNGi2PRUIJKMHakDhY93pau25AATtlYBAkZ-9fjFijt706iqwg/22.30.zip) |        
 | 22.40-CL-23070899                  | November 15th, 2022            | UE5.X                    |         Download : [1](https://store4.gofile.io/download/web/103fc009-2595-463f-926b-63c49f542dc6/22.40.rar) |
 
 # Season 23
@@ -426,4 +426,4 @@ A lot of builds are from [ByZNexus's](https://github.com/ByZNexus/Fortnite-Versi
 | repressoh               | Some build links come from them
 | simplyblk               | Some build links come from them
 | donjamie               | Provided the link for a missing v13.00
-
+| zach               | Used his v22.30 link
