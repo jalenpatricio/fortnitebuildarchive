@@ -395,7 +395,7 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 37.30-CL-45814998                | September 18th, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
 | 37.40-CL-46295673                | October 2nd, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
 | 37.50-CL-46578011                | October 9th, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
-| 37.51-CL-46968237                | October 22nd, 2025          | UE5.7                    |        Download : Link will be added soon |
+| 37.51-CL-46968237                | October 22nd, 2025          | UE5.7                    |        Download : [1](https://trashbytes.net/dl/YVEeZhMc8TCUokgJYR9y-6h_TUKlhvaBpo67bIIIVOmtXFfNoWdWdTuQ-Fm2U2DnKh4Z_Pnx7id3d5N8aDoIGyH3zniVo8V-GWqoLtjuEDNDx_ge6Z3CTpo?v=1772355491-qTfZh%2F5zUw%2BBNAWBbLo7wsUaqETNcIInrvOa0MDx64Q%3D) |
 
 # Season 38
 | Build                         | Date                |  Engine Version        |            Download links             |    
