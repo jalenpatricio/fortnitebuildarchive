@@ -141,7 +141,8 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 12.00-CL-11586896                | February 20th, 2020          | UE4.24                    |        Download : [1](https://fn-builds.repressoh.it/12.00-CL-11586896.7z) |
 | 12.10-CL-11883027                 | March 15th, 2020             | UE4.24                    |         Download : [1](https://public.simplyblk.xyz/12.10.zip)  |         
 | 12.20-CL-12236980                | March 17th, 2020            | UE4.24                    |         Download : [1](https://public.simplyblk.xyz/12.20.rar) |        
-| 12.21-CL-12353830                 | March 24th, 2020            | UE4.24                    |         Download : [1](https://public.simplyblk.xyz/12.21.zip) |        
+| 12.21-CL-12353830                 | March 24th, 2020            | UE4.24                    |         Download : [1](https://public.simplyblk.xyz/12.21.zip) | 
+| 12.30-CL-12624643                 | March 31st, 2020            | UE4.24                    |         Download : [1](https://transfer.it/t/ODMlq0hH0BxD) |        
 | 12.40-CL-12837456                  | April 15th, 2020            | UE4.24                    |         Download : [1](https://fn-builds.repressoh.it/12.40.rar) |
 | 12.41-CL-12905909                  | April 21st, 2020            | UE4.24                    |         Download : [1](https://fn-builds.repressoh.it/12.41-CL-12905909-Windows.zip) |
 | 12.50-CL-13137020                  | April 29th, 2020            | UE4.24                    |         Download : [1](https://public.simplyblk.xyz/12.50.zip) |
