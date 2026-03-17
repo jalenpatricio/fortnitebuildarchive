@@ -390,12 +390,15 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 # Season 37
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 37.00-CL-44501951                | August 7th, 2025          | UE5.7                  |        Download : Link down, join the discord if you have it |
-| 37.10-CL-45056983                | August 26th, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
-| 37.20-CL-45566402                | September 10th, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
-| 37.30-CL-45814998                | September 18th, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
-| 37.40-CL-46295673                | October 2nd, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
-| 37.50-CL-46578011                | October 9th, 2025          | UE5.7                    |        Download : Link down, join the discord if you have it |
+| 37.00-CL-44501951                | August 7th, 2025          | UE5.7                  |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.00-CL-33501951.zip) |
+| 37.10-CL-45056983                | August 26th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.10-CL-45056983.zip) |
+| 37.10-CL-45566377                | August 26th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.10-CL-45566377.zip) |
+| 37.20-CL-45566402               | September 10th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.20-CL-45566402.zip) |
+| 37.20-CL-45679054                | September 10th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.20-CL-45679054.zip) |
+| 37.30-CL-45814998                | September 18th, 2025          | UE5.7                    |        Download : [1](https://ia800708.us.archive.org/22/items/fn-v37-archive/37.30-CL-45814998.zip) |
+| 37.31-CL-45814998                | September 25th, 2025          | UE5.7                    |        Download : [1]([1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.31-CL-46047957.zip)) |
+| 37.40-CL-46295673                | October 2nd, 2025          | UE5.7                    |        Download : [1](https://ia800708.us.archive.org/22/items/fn-v37-archive/37.40-CL-46295673.zip) |
+| 37.50-CL-46578011                | October 9th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.50-CL-46578011.zip) |
 | 37.51-CL-46968237                | October 22nd, 2025          | UE5.7                    |        Download : [1](https://trashbytes.net/dl/YVEeZhMc8TCUokgJYR9y-6h_TUKlhvaBpo67bIIIVOmtXFfNoWdWdTuQ-Fm2U2DnKh4Z_Pnx7id3d5N8aDoIGyH3zniVo8V-GWqoLtjuEDNDx_ge6Z3CTpo?v=1772355491-qTfZh%2F5zUw%2BBNAWBbLo7wsUaqETNcIInrvOa0MDx64Q%3D) |
 
 # Season 38
@@ -433,4 +436,5 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | zach               | Used his v22.30 link
 | llamaqwerty               | Took some missing builds from their repo
 | mariki               | Got 29.40 from them
+| electric_dragon               | ton of builds from them
 
