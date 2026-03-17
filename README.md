@@ -373,11 +373,11 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 35.00-CL-41994699                | May 2nd, 2025          | UE5.6                    |        Download : [1](https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip) |
-| 35.00-CL-42223143                | May 2nd, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 35.10-CL-42476511                | May 16th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 35.10-CL-42696140                | May 16th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 35.10-CL-42906078                | May 16th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it ||
-| 35.20-CL-42911808                | May 29th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
+| 35.00-CL-42223143                | May 2nd, 2025          | UE5.6                    |        Download : [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.00-CL-42223143.zip) |
+| 35.10-CL-42476511                | May 16th, 2025          | UE5.6                    |        Download : [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.10-CL-42476511.zip) |
+| 35.10-CL-42696140                | May 16th, 2025          | UE5.6                    |        Download : [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.10-CL-42696140.zip) |
+| 35.10-CL-42906078                | May 16th, 2025          | UE5.6                    |        Download : [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.10-CL-42906078.zip) ||
+| 35.20-CL-42911808                | May 29th, 2025          | UE5.6                    |        Download : [1](https://dn711105.ca.archive.org/0/items/fn-v35-archive/35.20-CL-42911808.zip) |
 
 # Season 36
 | Build                         | Date                |  Engine Version        |            Download links             |    
