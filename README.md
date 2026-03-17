@@ -2,7 +2,7 @@
 
 The worlds largest Fortnite Build Archive ranging from Chapter 1 through Chapter 7 (current).
 
-Credits are listed at the bottom of all of the builds. If you see any builds that are yours and aren't credited, please contact me @jalenpatricio on Discord or join the server below.
+Credits are listed at the bottom of all of the builds. If you see any builds that are yours and aren't credited, please contact me @ jalenpatricio on Discord or join the server below.
 
 # Join the [Discord](https://discord.gg/VeRF9ZCkNX)
 
@@ -382,10 +382,14 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 # Season 36
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 36.00-CL-43214806                | June 7th, 2025          | UE5.6.1                  |        Download : Link down, join the discord if you have it |
-| 36.10-CL-43486998                | June 18th, 2025          | UE5.6.1                    |        Download : Link down, join the discord if you have it |
-| 36.20-CL-43847582                | July 15th, 2025          | UE5.6.1                    |        Download : Link down, join the discord if you have it |
-| 36.30-CL-44367537                | May 29th, 2025          | UE5.6.1                    |        Download : [1](https://pastabillites.to/d/guw6f4kque8h?v=-bYBT4apDtMj9uSA8vtepVsRWx78vPTzEcowU4Svrl4KavQhjKX6q738Eryw9nyV92TftH9dp1NTksWg7Eqtqg2MAyLGWXQOCKeczTGrbrLbYLtsYrjqxcCDL1NIBw) |
+| 36.00-CL-43214806                | June 7th, 2025          | UE5.6.1                  |        Download : [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.00-CL-43214806.zip) |
+| 36.00-CL-43339403                | June 7th, 2025          | UE5.6.1                  |        Download : [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.00-CL-43339403.zip) 
+| 36.10-CL-43486998                | June 18th, 2025          | UE5.6.1                    |        Download : [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.10-CL-43486998.zip) |
+| 36.10-CL-43713507               | June 18th, 2025          | UE5.6.1                    |        Download : [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.10-CL-43713507.zip) |
+| 36.10-CL-43997926               | June 18th, 2025          | UE5.6.1                    |        Download : [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.10-CL-43997926.zip) |
+| 36.20-CL-43847582                | July 15th, 2025          | UE5.6.1                    |        Download : [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.20-CL-43847582.zip) |
+| 36.20-CL-44118662                | July 15th, 2025          | UE5.6.1                    |        Download : [1](https://dn711407.ca.archive.org/0/items/fn-v36-archive/36.20-CL-44118662.zip) |
+| 36.30-CL-44367537                | May 29th, 2025          | UE5.6.1                    |        Download : [1](https://ia800602.us.archive.org/13/items/fn-v36-archive/36.30-CL-44367537.zip) |
 
 # Season 37
 | Build                         | Date                |  Engine Version        |            Download links             |    
