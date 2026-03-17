@@ -361,13 +361,13 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 34.00-CL-40085084                | February 21st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
 | 34.00-CL-40228973                | February 21st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
 | 34.00-CL-40398515                | February 21st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 34.00-CL-40446427                | February 21st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 34.10-CL-40567068                | March 11th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 34.20-CL-40965447                | March 25th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 34.21-CL-41092960                | April 1st, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 34.30-CL-41387772                | April 8th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
+| 34.00-CL-40446427                | February 21st, 2025          | UE5.6                    |        Download : [1](https://ia601805.us.archive.org/18/items/fn-v34-archive/34.00-CL-40446427.zip) |
+| 34.10-CL-40567068                | March 11th, 2025          | UE5.6                    |        Download : [1](https://dn710903.ca.archive.org/0/items/34.10-cl-40567068/34.10-CL-40567068.zip) |
+| 34.20-CL-40965447                | March 25th, 2025          | UE5.6                    |        Download : [1](https://dn710903.ca.archive.org/0/items/34.10-cl-40567068/34.20-CL-40965447.zip) |
+| 34.21-CL-41092960                | April 1st, 2025          | UE5.6                    |        Download : [1](https://dn710903.ca.archive.org/0/items/34.10-cl-40567068/34.21-CL-41092960.zip) |
+| 34.30-CL-41387772                | April 8th, 2025          | UE5.6                    |        Download : [1](https://dn710903.ca.archive.org/0/items/34.10-cl-40567068/34.30-CL-41387772.zip) |
 | 34.30-CL-41588354                | April 8th, 2025          | UE5.6                    |        Download : Link down, join the discord if you have it |
-| 34.40-CL-41753727                | April 22nd, 2025          | UE5.6                    |        Download : [1](https://pastabillites.to/d/b3n0tblbte2g?v=-Wi3AGAgIOAjO6Hlx3CHOu0Oh3AtBZyqakyKy3Tp3GPkXEOZTxjW1XCGW5Ou2D9KMCq_aDW9FMZRXSVQHCBB1r7oOYzvv5np0wecUJTvlHcK2i4EcKqqWzgSlvRrwQ) |
+| 34.40-CL-41753727                | April 22nd, 2025          | UE5.6                    |        Download : [1](https://dn710903.ca.archive.org/0/items/34.10-cl-40567068/34.40-CL-41753727.rar) |
 
 # Season 35
 | Build                         | Date                |  Engine Version        |            Download links             |    
