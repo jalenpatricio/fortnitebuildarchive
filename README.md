@@ -425,8 +425,13 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 39.30-CL-49874243                | January 22nd, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-49874243.zip) |
 | 39.30-CL-50141518                | January 22nd, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-50141518.zip) |
 | 39.40-CL-50341043                | February 5th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.40-CL-50341043.zip) |
-| 39.50-CL-50854790 (Current)              | February 19th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.50-CL-50854790.zip) |
-| 39.51-CL-?              | March 5th, 2026          | UE5.8                    |        Download : Link will be added when it releases |
+| 39.50-CL-50854790              | February 19th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.50-CL-50854790.zip) |
+| 39.51-CL-?              | March 5th, 2026          | UE5.8                    |        Download : Link down, join the discord if you have a link |
+
+# Season 40
+| Build                         | Date                |  Engine Version        |            Download links             |    
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
+| 40.00-CL-51746096 (Current)               | March 19th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
 
 # Credits
 | Name                         | Credits for                |  
