@@ -400,7 +400,7 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 37.20-CL-45566402               | September 10th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.20-CL-45566402.zip) |
 | 37.20-CL-45679054                | September 10th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.20-CL-45679054.zip) |
 | 37.30-CL-45814998                | September 18th, 2025          | UE5.7                    |        Download : [1](https://ia800708.us.archive.org/22/items/fn-v37-archive/37.30-CL-45814998.zip) |
-| 37.31-CL-45814998                | September 25th, 2025          | UE5.7                    |        Download : [1]([1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.31-CL-46047957.zip)) |
+| 37.31-CL-45814998                | September 25th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.31-CL-46047957.zip) |
 | 37.40-CL-46295673                | October 2nd, 2025          | UE5.7                    |        Download : [1](https://ia800708.us.archive.org/22/items/fn-v37-archive/37.40-CL-46295673.zip) |
 | 37.50-CL-46578011                | October 9th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.50-CL-46578011.zip) |
 | 37.51-CL-46968237                | October 22nd, 2025          | UE5.7                    |        Download : [1](https://trashbytes.net/dl/YVEeZhMc8TCUokgJYR9y-6h_TUKlhvaBpo67bIIIVOmtXFfNoWdWdTuQ-Fm2U2DnKh4Z_Pnx7id3d5N8aDoIGyH3zniVo8V-GWqoLtjuEDNDx_ge6Z3CTpo?v=1772355491-qTfZh%2F5zUw%2BBNAWBbLo7wsUaqETNcIInrvOa0MDx64Q%3D) |
@@ -426,24 +426,42 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 39.30-CL-50141518                | January 22nd, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-50141518.zip) |
 | 39.40-CL-50341043                | February 5th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.40-CL-50341043.zip) |
 | 39.50-CL-50854790              | February 19th, 2026          | UE5.8                    |        Download : [1](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.50-CL-50854790.zip) |
-| 39.51-CL-?              | March 5th, 2026          | UE5.8                    |        Download : Link down, join the discord if you have a link |
+| 39.51-CL-51287198              | March 5th, 2026          | UE5.8                    |        Download : [1](https://ia800105.us.archive.org/0/items/fn-v39-archive/39.51-CL-51287198.zip) |
 
 # Season 40
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 40.00-CL-51746096 (Current)               | March 19th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.00-CL-51746096              | March 19th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.00-CL-51995682              | March 20th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.10-CL-52157884              | April 1st, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.20-CL-52463280              | April 16th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.20-CL-52900211              | April 20th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.30-CL-53093531              | April 30th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.40-CL-53683214              | May 14th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.41-CL-54326946              | May 18th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+
+# Season 41
+| Build                         | Date                |  Engine Version        |            Download links             |    
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
+| 41.00-CL-54618515              | June 5th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
+| 41.00-CL-54867060              | June 7th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
+| 41.00-CL-54872343              | June 9th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
+| 41.00-CL-55159917              | June 16th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
+| 41.10-CL-55227503              | June 25th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
+| 41.20-CL-55550516              | July 16th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
+
 
 # Credits
-| Name                         | Credits for                |  
-| ----------------------------- | ---------------------- | 
-| ByZNs                |   Gave me permission to use most build links from their repo        
-| a real potato               | Sent me the link for v31.40  
-| ploosh.dev               | Some build links come from them
-| repressoh               | Some build links come from them
-| simplyblk               | Some build links come from them
-| donjamie               | Provided the link for a missing v13.00
-| zach               | Used his v22.30 link
-| llamaqwerty               | Took some missing builds from their repo
-| mariki               | Got 29.40 from them
-| electric_dragon               | ton of builds from them
+| Name                        
+| ----------------------------- 
+| ByZNs                    
+| a real potato               
+| ploosh.dev               
+| repressoh               
+| simplyblk               
+| donjamie               
+| zach               
+| llamaqwerty               
+| mariki               
+| electric_dragon               
 
