@@ -12,23 +12,23 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 # Season 1
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 1.8-CL-3724489                  | October 25th, 2017             | UE4.16-3724489                    |         Download : [1](https://builds.rebootfn.org/1.8.rar)  |         
-| 1.8.1-CL-3729133                | November 2nd, 2017            | UE4.16-3729133                    |         Download : [1](https://builds.rebootfn.org/1.8.1.rar) |        
-| 1.8.2-CL-3741772                 | November 7th, 2017            | UE4.16-3741772                    |         Download : [1](https://builds.rebootfn.org/1.8.2.rar) |        
-| 1.9-CL-3757339                  | November 13th, 2017            | UE4.16-3757339                    |         Download : [1](https://builds.rebootfn.org/1.9.rar) |
-| 1.9.1-CL-3775276                  | November 28th, 2017          | UE4.16-3775276                    |         Download : [1](https://builds.rebootfn.org/1.9.1.rar)  |
-| 1.10-CL-3790078                  | December 6th, 2017          | UE4.19-3790078                    |         Download : [1](https://builds.rebootfn.org/1.10.rar)  |
+| 1.8-CL-3724489                  | October 25th, 2017             | UE4.16-3724489                    |         [1](https://fortforge.co.uk/download/b860d391-85f4-453c-8900-14b55c7f1fdb/build)  |         
+| 1.8.1-CL-3729133              | November 2nd 2017               | UE4.16-3729133           |  [1](https://fortforge.co.uk/download/b5b3b7a9-4875-445b-8e16-f2f3729dc5dd/build) |		
+| 1.8.2-CL-3741772        	| November 7th 2017      	 | UE4.16-3741772	    |		 [1](https://fortforge.co.uk/download/d8d5a5ef-ecf3-4136-a5da-53a4d73997fe/build) |		
+| 1.9-CL-3757339          	| November 13th 2017       	 | UE4.16-3757339	    |		 [1](https://fortforge.co.uk/download/478aedbf-2ecf-4fa8-a20a-197f5eff2402/build) |		
+| 1.9.1-CL-3775276        	| November 28th 2017      	 | UE4.16-3775276	    |		 [1](https://fortforge.co.uk/download/e4e48be3-d265-46bd-a0fa-d720dfae630e/build)  |		
+| 1.10-CL-3790078	  	| December 6th 2017	   	 | UE4.19-3790078	    |		 [1](https://fortforge.co.uk/download/4339aebd-f902-4b5b-afa9-661f3736339d/build) |		
 
 # Season 2
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 1.11-CL-3807424                | Decemeber 14th, 2017          | UE4.19-3807424                    |        Download : [1](https://builds.rebootfn.org/1.11.zip) |
-| 2.1.0-CL-3825894                  | January 9th, 2018             | UE4.19-3825894                    |         Download : [1](https://builds.rebootfn.org/2.1.0.zip)  |         
-| 2.2.0-CL-3841827                | January 18th, 2018            | UE4.19-3841827                    |         Download : [1](https://public.simplyblk.xyz/2.2.0.rar) |        
-| 2.3.0-CL-3847564                 | January 25th, 2018            | UE4.19-3847564                    |         Download : [1](https://builds.rebootfn.org/2.3.rar) |        
-| 2.4.0-CL-3858292                  | February 1st, 2018            | UE4.19-3858292                    |         Download : [1](https://builds.rebootfn.org/2.4.0.zip) |
-| 2.4.2-CL-3879410                  | February 8th, 2018          | UE4.19-3879408                    |         Download : [1](https://builds.rebootfn.org/2.4.2.zip)  |
-| 2.5.0-CL-3889387                  | February 13th, 2018          | UE4.20-3889387                    |         Download : [1](https://builds.rebootfn.org/2.5.0.rar)  |
+| 1.11-CL-3807424         	| December 14th 2017		 | UE4.19-3807424	    |	 [1](https://fortforge.co.uk/download/1c352e74-6a8a-4f08-8fcc-822ca372a10b/build) | 
+| 2.1.0-CL-3825894        	| January 9th 2018	  	 | UE4.19-3825894	    |	 [1](https://fortforge.co.uk/download/d23215f7-38e3-48e1-9c01-48ecede2d51d/build) |	
+| 2.2.0-CL-3841827        	| January 18th 2018  	 | UE4.19-3841827	    |		  [1](https://fortforge.co.uk/download/2216a5ae-2a4c-4faf-830d-3e0cc106f01d/build) |	
+| 2.3.0-CL-3847564        	| January 25th 2018	  	 | UE4.19-3847564	    |		  [1](https://fortforge.co.uk/download/c56ef236-f9aa-4f78-b51b-af89af5fe994/build) |	
+| 2.4.0-CL-3858292        	| February 1st 2018	  	 | UE4.19-3858292	    |		  [1](https://fortforge.co.uk/download/eac06d57-f3ea-422f-8690-ad8d23899d66/build) |	
+| 2.4.2-CL-3879410 | February 8th 2018 | UE4.19-3879408 |   [1](https://fortforge.co.uk/download/55ad979f-397b-42bb-b8e9-a858bdf09e84/build)
+| 2.5.0-CL-3889387        	| February 13th 2018       	 | UE4.20-3889387	    |	         [1](https://fortforge.co.uk/download/8d8b6729-8f33-418d-8b4c-7c746945adee/build) |		
 
 # Season 3
 | Build                         | Date                |  Engine Version        |            Download links             |    
@@ -403,7 +403,7 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 37.31-CL-45814998                | September 25th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.31-CL-46047957.zip) |
 | 37.40-CL-46295673                | October 2nd, 2025          | UE5.7                    |        Download : [1](https://ia800708.us.archive.org/22/items/fn-v37-archive/37.40-CL-46295673.zip) |
 | 37.50-CL-46578011                | October 9th, 2025          | UE5.7                    |        Download : [1](https://dn710408.ca.archive.org/0/items/fn-v37-archive/37.50-CL-46578011.zip) |
-| 37.51-CL-46968237                | October 22nd, 2025          | UE5.7                    |        Download : [1](https://trashbytes.net/dl/YVEeZhMc8TCUokgJYR9y-6h_TUKlhvaBpo67bIIIVOmtXFfNoWdWdTuQ-Fm2U2DnKh4Z_Pnx7id3d5N8aDoIGyH3zniVo8V-GWqoLtjuEDNDx_ge6Z3CTpo?v=1772355491-qTfZh%2F5zUw%2BBNAWBbLo7wsUaqETNcIInrvOa0MDx64Q%3D) |
+| 37.51-CL-46968237                | October 22nd, 2025          | UE5.7                    |        Download : [1](https://fortforge.co.uk/download/10d9c479-67ca-460e-85d5-876ae692f11b/build) |
 
 # Season 38
 | Build                         | Date                |  Engine Version        |            Download links             |    
@@ -411,7 +411,7 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | 38.00-CL-47291259                | November 1st, 2025          | UE5.7                 |        Download : [1](https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip) |
 | 38.00-CL-47722112                | August 26th, 2025          | UE5.7                   |        Download : [1](https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip) |
 | 38.10-CL-47888945                | November 11th, 2025          | UE5.7                    |        Download : [1](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) |
-| 38.11-CL-48390828                | November 19th, 2025          | UE5.7                    |        Download : [1](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) |
+| 38.11-CL-48390828                | November 19th, 2025          | UE5.7                    |        Download : [1](https://fortforge.co.uk/download/c2359619-2f35-415a-9800-c580d680294f/build) |
 
 # Season 39
 | Build                         | Date                |  Engine Version        |            Download links             |    
@@ -432,36 +432,37 @@ Credits are listed at the bottom of all of the builds. If you see any builds tha
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 40.00-CL-51746096              | March 19th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
-| 40.00-CL-51995682              | March 20th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
-| 40.10-CL-52157884              | April 1st, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
-| 40.20-CL-52463280              | April 16th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
-| 40.20-CL-52900211              | April 20th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
-| 40.30-CL-53093531              | April 30th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
-| 40.40-CL-53683214              | May 14th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
-| 40.41-CL-54326946              | May 18th, 2026          | UE5.8                  |        Download : [1](https://dn720606.ca.archive.org/0/items/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.00-CL-51995682              | March 20th, 2026          | UE5.8                  |        Download : [1](https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip) |
+| 40.10-CL-52157884              | April 1st, 2026          | UE5.8                  |        Download : [1](https://ia601507.us.archive.org/3/items/40.00-CL-51746096/40.10-CL-52157884.zip) |
+| 40.20-CL-52463280              | April 16th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/b1b68d0b-71aa-4ac8-a306-f97c532b9d5c/build) |
+| 40.30-CL-53093531              | April 30th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/7e6c16fc-3bc8-4cb3-af07-673a2949b8e2/build) |
+| 40.40-CL-53683214              | May 14th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/9c9a7ebe-84aa-4c63-b8d9-2c058fe4e68d/build) |
+| 40.41-CL-54326946              | May 18th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/a6d41a48-d5da-4ad0-9f47-7620e9d1b9dc/build) |
 
 # Season 41
 | Build                         | Date                |  Engine Version        |            Download links             |    
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 41.00-CL-54618515              | June 5th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
-| 41.00-CL-54867060              | June 7th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
-| 41.00-CL-54872343              | June 9th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
-| 41.00-CL-55159917              | June 16th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
-| 41.10-CL-55227503              | June 25th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
-| 41.20-CL-55550516              | July 16th, 2026          | UE5.8                  |        Download : Link down, DM if you have it |
+| 41.00-CL-54618515              | June 5th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/1404a2d7-d9a1-4541-af24-8baa2282c77e/build) |
+| 41.10-CL-55227503              | June 25th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/f9579a02-0f99-406d-9802-bcee6e48e5b9/build) |
+| 41.20-CL-55550516              | July 16th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/af5f8e03-3bb1-4293-a8b4-132bee046070/build) |
+| 41.30-CL-56430492              | July 30th, 2026          | UE5.8                  |        Download : [1](https://fortforge.co.uk/download/f780e8e1-9e55-4b2e-a37c-acb86ad5e926/build) |
+
+# Season 42
+| Build                         | Date                |  Engine Version        |            Download links             |    
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
+| 42.00-CL-56878558              | August 20th, 2026          | UE6.0                 |        Download : [1](https://fortforge.co.uk/download/34e37a10-4a84-4cee-861e-a96635693300/build) |
+| 42.10-CL-57819926              | September 3rd, 2026          | UE6.0                 |        Download : [1](https://fortforge.co.uk/download/46a93b58-a74e-497d-a623-d7a87e062a9e/build) |
+| 42.20-CL-58011042              | September 17th, 2026          | UE6.0                 |        Download : [1](https://fortforge.co.uk/download/5f718b03-19e5-4f30-b622-53bd832e5a29/build) |
+| 42.30-CL-58557680              | October 1st, 2026          | UE6.0                 |        Download : [1](https://fortforge.co.uk/download/c5293b95-34c9-4466-8581-5969d8819287/build) |
+| 42.40-CL-59086525              | October 15th, 2026          | UE6.0                 |        Download : [1](https://fortforge.co.uk/download/a7b2b807-e288-41af-abb7-b043e6fdf07a/build) |
 
 
 # Credits
 | Name                        
 | ----------------------------- 
 | ByZNs                    
-| a real potato               
-| ploosh.dev               
-| repressoh               
-| simplyblk               
 | donjamie               
 | zach               
-| llamaqwerty               
 | mariki               
 | electric_dragon               
 
